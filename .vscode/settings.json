@@ -1,0 +1,33 @@
+{
+  "eslint.autoFixOnSave": true,
+  "eslint.nodePath": "/node_modules/eslint",
+  "workbench.colorCustomizations": {
+    "terminal.background": "#000c18"
+  },
+  "explorer.sortOrder": "type",
+  "vsicons.associations.folders": [
+    { "icon": "images", "extensions": ["FullImage"], "format": "svg" },
+    { "icon": "template", "extensions": ["ImagesView"], "format": "svg" },
+    { "icon": "library", "extensions": ["SearchBar"], "format": "svg" },
+    { "icon": "interfaces", "extensions": ["ToggleView"], "format": "svg" }
+  ],
+  "vsicons.associations.files": [
+    { "icon": "riot", "extensions": ["red.js"], "format": "svg" },
+    { "icon": "angular", "extensions": ["act.js"], "format": "svg" },
+    {
+      "icon": "typescript",
+      "extensions": ["act.types.js"],
+      "format": "svg"
+    },
+    {
+      "icon": "storybook",
+      "extensions": ["styles.js"],
+      "format": "svg"
+    },
+    {
+      "icon": "storybook",
+      "filename": "styles.js",
+      "format": "svg"
+    }
+  ]
+}
